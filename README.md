@@ -16,6 +16,5 @@ test_paper_products.txt is the filename of exported trading view watchlist.
 
 The converted watchlist will be stored as - dhan_test_paper_products.txt
 
-
 ## Limitations
 This only supports EQ segment of NSE and BSE.
