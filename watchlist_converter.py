@@ -1,7 +1,6 @@
 import argparse
 import json
 import os
-import urllib.request
 import pandas as pd
 import logging
 
